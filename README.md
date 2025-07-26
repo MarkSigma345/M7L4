@@ -43,4 +43,3 @@ pip install pytest
 pytest
 ```
 ## Автор
-Марк
